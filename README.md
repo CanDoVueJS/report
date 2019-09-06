@@ -6,6 +6,7 @@ CanDoVueJS(가제) 관련해서 오타, 질문 혹은 코드가 동작하지 않
 
 #### Chapter 5 메모 애플리케이션 만들기
 - [p.169내의 코드 누락](./fixed/chapter5/p169.md)
+- [p189내의 오타 수정](./fixed/chapter5/p189.md)
 
 ### 종류에 따라 이슈를 남기는 법
 #### 1. [Report](https://github.com/CanDoVueJS/report) 레파지토리 혹은 챕터별 각 레파지토리로 이동한다.
